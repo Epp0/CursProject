@@ -1,0 +1,11 @@
+D:\lab1\Cursach\CursMain\CursMain\bin\Debug\CursMain.exe.config
+D:\lab1\Cursach\CursMain\CursMain\bin\Debug\CursMain.exe
+D:\lab1\Cursach\CursMain\CursMain\bin\Debug\CursMain.pdb
+D:\lab1\Cursach\CursMain\CursMain\obj\Debug\CursMain.csprojResolveAssemblyReference.cache
+D:\lab1\Cursach\CursMain\CursMain\obj\Debug\CursMain.Form1.resources
+D:\lab1\Cursach\CursMain\CursMain\obj\Debug\CursMain.Properties.Resources.resources
+D:\lab1\Cursach\CursMain\CursMain\obj\Debug\CursMain.csproj.GenerateResource.Cache
+D:\lab1\Cursach\CursMain\CursMain\obj\Debug\CursMain.exe
+D:\lab1\Cursach\CursMain\CursMain\obj\Debug\CursMain.pdb
+D:\lab1\Cursach\CursMain\CursMain\obj\Debug\CursMain.Form2.resources
+D:\lab1\Cursach\CursMain\CursMain\obj\Debug\CursMain.Form3.resources
